@@ -3,6 +3,7 @@ layout: post
 title: Example post of Freddie Venturas Blog
 description: Ammended post from the template to understand it myself 
 date: 2020-07-21 22:02:00
+author: Freddie Ventura
 hero_image: https://www.csrhymes.com/img/example-docs-page.jpg
 hero_height: is-large
 hero_darken: true
