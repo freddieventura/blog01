@@ -11,7 +11,40 @@ tags: post first standard template
 canonical_url: https://www.csrhymes.com/2020/05/08/creating-a-docs-site-with-bulma-clean-theme.html
 ---
 
-I created Bulma Clean Theme as a theme for my own website and decided to open source it so others could use it as well. One of the key things I wanted to do was to create a theme that worked with GitHub Pages, which also means that you can also use it as a docs site for your project. 
+Malesuada molestie lorem. Nunc non mauris. Nam accumsan tortor gravida elit.
+Cras porttitor.
+
+Praesent vel enim sed eros luctus imperdiet. Mauris neque ante, placerat at,
+mollis vitae, faucibus quis, leo. Ut feugiat. Vivamus urna quam, congue
+vulputate, convallis non, cursus cursus, risus. Quisque aliquet. Donec
+vulputate egestas elit. Morbi dictum, sem sit amet aliquam euismod, odio tortor
+pellentesque odio, ac ultrices enim nibh sed quam. Integer tortor velit,
+condimentum a, vestibulum eget, sagittis nec, neque. Aenean est urna, bibendum
+et, imperdiet at, rhoncus in, arcu. In hac habitasse platea dictumst.
+Vestibulum blandit dignissim dui. Maecenas vitae magna non felis ornare
+consectetuer. Sed lorem. Nam leo. In eget pede. Donec porta.
+
+Etiam facilisis. Nam suscipit. Ut consectetuer leo vehicula augue. Aliquam
+cursus. Integer pharetra rhoncus massa. Cras et ligula vel quam tristique
+commodo. Sed est lectus, mollis quis, lacinia id, sollicitudin nec, eros.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+cubilia Curae; Morbi urna dui, fermentum quis, feugiat imperdiet, imperdiet id,
+sapien. Phasellus auctor nunc. Vivamus eget augue quis neque vestibulum
+placerat. Duis placerat. Maecenas accumsan rutrum lacus. Vestibulum lacinia
+semper nibh. Aenean diam odio, scelerisque at, ullamcorper nec, tincidunt
+dapibus, quam. Duis vel ante nec tortor porta mollis. Praesent orci. Cras
+dignissim vulputate metus.
+
+Phasellus eu quam. Quisque interdum cursus purus. In orci. Maecenas vehicula.
+Sed et mauris. Praesent feugiat viverra lacus. Suspendisse pulvinar lacus ut
+nunc. Quisque nisi. Suspendisse id risus nec nisi ultrices ornare. Donec eget
+tellus. Nullam molestie placerat felis. Aenean facilisis. Nunc erat. Integer in
+tellus. Mauris volutpat, neque vel ornare porttitor, dolor nisi sagittis dolor,
+sit amet bibendum orci leo blandit lacus.
+
+In id velit sodales arcu iaculis venenatis. Etiam at leo. Vivamus vitae sem.
+Mauris volutpat congue risus. Curabitur leo. Aenean tempor tortor eget ligula.
+Aenean vel augue. Vestibulum ac justo. In hac habitasse platea.
 
 ## GitHub Pages Configuration
 
